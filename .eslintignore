@@ -1,0 +1,11 @@
+/**/node_modules/*
+dist
+coverage
+build
+src/apps/acceptable-webapp/assets
+
+# IDE
+.fleet
+
+# Project
+**/cypress/**
