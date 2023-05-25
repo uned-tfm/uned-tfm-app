@@ -1,4 +1,4 @@
 export const envVars = {
   ENVIRONMENT: 'test',
-  USE_IN_MEMORY_REPOSITORIES: false
+  API_URL: 'http://localhost:8000/malware/api'
 };
